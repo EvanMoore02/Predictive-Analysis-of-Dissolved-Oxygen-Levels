@@ -1,0 +1,1 @@
+Using data provided by Fisheries and Oceans Canada, I applied supervised learning techniques to predict dissolved oxygen levels in four estuaries on the East Coast. The methods employed included Support Vector Machine and Random Forest Classifier, enabling accurate analysis and prediction of oxygen levels in these environments.
